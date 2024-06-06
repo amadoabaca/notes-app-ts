@@ -33,3 +33,5 @@ out/
 # Ignorar archivos de configuración del sistema operativo
 .DS_Store
 Thumbs.db
+
+.idx/
